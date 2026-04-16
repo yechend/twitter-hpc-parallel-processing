@@ -55,6 +55,3 @@ def main():
         ut.log_time('Final Processing Time', t0)
         
     # Reduce method - aggregate data and compute: cannot use MPI.MAX for NumPy arrays
-
-if __name__ == '__main__':
-    main()

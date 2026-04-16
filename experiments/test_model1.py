@@ -169,6 +169,3 @@ def main():
         data_valuable = find_valuable_infos(data_infos)
         print(data_valuable)
         log_time('Final Processing Time', t0)
-
-if __name__ == '__main__':
-    main()

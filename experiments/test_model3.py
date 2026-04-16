@@ -71,6 +71,3 @@ def main():
 
         # Record time to print out the results
         ut.log_time('Final Computation Time', t0)
-
-if __name__ == '__main__':
-    main()
