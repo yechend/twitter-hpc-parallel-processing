@@ -1,0 +1,51 @@
+Node: 1 Reading File : 62.22642803192139
+Node: 7 Reading File : 62.61079382896423
+Node: 4 Reading File : 63.47060227394104
+Node: 5 Reading File : 63.59612679481506
+Node: 6 Reading File : 63.898555517196655
+Node: 0 Reading File : 64.98695826530457
+Node: 3 Reading File : 66.54221081733704
+Node: 2 Reading File : 67.34349083900452
+Transferring Data : 67.35467410087585
+Aggregating Data : 67.35636138916016
+Happiest Hour Ever: 1-2pm on 31st December 2021 with an overall sentiment score of 3658.95
+Most Active Hour Ever: 12-1pm on 21st May 2022 had the most tweets (#39061)
+Happiest Day Ever: 31st December 2021 with an overall sentiment score of 30402.26
+Most Active Day Ever: 21st May 2022 had the most tweets (#424372)
+Final Computation Time : 67.35653710365295
+
+real	1m9.584s
+user	4m17.556s
+sys	0m12.278s
+Job ID           : 57957337
+Cluster          : spartan
+User/Project     : yechend/comp90024
+Nodes            : 2
+Wall-clock time  : 00:01:11 / 00:05:00
+
+Displaying overall resources usage from 2024-04-05 12:23:18 to 2024-04-05 12:24:29:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm176 : 
+                CPU# 1    : 84.4   (  80.4 /   4.0 /   0.0 /  15.6 ) 
+                CPU# 2    : 84.4   (  80.3 /   4.1 /   0.0 /  15.6 ) 
+                CPU# 3    : 84.4   (  80.5 /   3.9 /   0.0 /  15.6 ) 
+                CPU# 4    : 84.5   (  80.3 /   4.2 /   0.0 /  15.5 ) 
+
+spartan-bm177 : 
+                CPU# 5    : 84.4   (  80.1 /   4.3 /   0.0 /  15.5 ) 
+                CPU# 6    : 84.4   (  80.0 /   4.4 /  15.6 /   0.0 ) 
+                CPU# 7    : 84.4   (  79.8 /   4.6 /   0.0 /  15.6 ) 
+                CPU# 8    : 84.7   (  80.2 /   4.5 /   0.0 /  15.3 ) 
+
+
+Allocated CPUs            : 8    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 8    
+
+Memory used (RAM)         : 1.9%  [639MB of 33555MB]
+
+--------------------------------------------
+

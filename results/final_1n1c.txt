@@ -1,0 +1,35 @@
+Node: 0 Reading File : 496.69206738471985
+Transferring Data : 496.6930458545685
+Aggregating Data : 496.69342732429504
+Happiest Hour Ever: 1-2pm on 31st December 2021 with an overall sentiment score of 3658.95
+Most Active Hour Ever: 12-1pm on 21st May 2022 had the most tweets (#39061)
+Happiest Day Ever: 31st December 2021 with an overall sentiment score of 30402.26
+Most Active Day Ever: 21st May 2022 had the most tweets (#424372)
+Final Computation Time : 496.693603515625
+
+real	8m18.454s
+user	7m52.137s
+sys	0m23.178s
+Job ID           : 57957838
+Cluster          : spartan
+User/Project     : yechend/comp90024
+Nodes            : 1
+Wall-clock time  : 00:08:21 / 00:30:00
+
+Displaying overall resources usage from 2024-04-05 12:38:51 to 2024-04-05 12:47:12:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm176 : 
+                CPU# 1    : 98.5   (  93.6 /   4.9 /   0.0 /   1.5 ) 
+
+
+Allocated CPUs            : 1    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 1    
+
+Memory used (RAM)         : 3.9%  [162MB of 4195MB]
+
+--------------------------------------------
+
