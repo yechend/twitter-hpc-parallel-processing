@@ -1,0 +1,8 @@
+
+.idea/
+*.iml
+
+__pycache__/
+*.pyc
+
+.DS_Store
